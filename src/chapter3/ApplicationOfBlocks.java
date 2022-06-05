@@ -3,7 +3,7 @@ package chapter3;
 /*
 продемонстрировать применение блока кода
  */
-public class ApplecationOfBlocks {
+public class ApplicationOfBlocks {
     public static void main(String args[]) {
         int x, y;
         y = 220;
